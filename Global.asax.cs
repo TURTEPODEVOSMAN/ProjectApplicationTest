@@ -7,7 +7,7 @@ using System.Web.Routing;
 using System.Web.Security;
 using System.Web.SessionState;
 
-namespace SQLinj
+namespace OKucukkelesSQLinj
 {
     public class Global : HttpApplication
     {

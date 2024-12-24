@@ -11,16 +11,25 @@ namespace OKucukkelesSQLinj
 {
 
 
-    public partial class SiteMaster
+    public partial class adminPanel
     {
 
         /// <summary>
-        /// MainContent control.
+        /// lblBilgi control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.ContentPlaceHolder MainContent;
+        protected global::System.Web.UI.WebControls.Label lblBilgi;
+
+        /// <summary>
+        /// btnLogOff control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btnLogOff;
     }
 }

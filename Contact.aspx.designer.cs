@@ -11,7 +11,7 @@ namespace OKucukkelesSQLinj
 {
 
 
-    public partial class _Default
+    public partial class Contact
     {
     }
 }

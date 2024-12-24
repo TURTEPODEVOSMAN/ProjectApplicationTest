@@ -1,0 +1,3 @@
+﻿' OR '1'='1
+' UNION SELECT * FROM Users --
+OsmanAdmin' --

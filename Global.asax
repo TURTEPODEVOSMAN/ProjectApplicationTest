@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.cs" Inherits="SQLinj.Global" Language="C#" %>
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="OKucukkelesSQLinj.Global" Language="C#" %>

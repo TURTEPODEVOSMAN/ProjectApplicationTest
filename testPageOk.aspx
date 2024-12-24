@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="testPage.aspx.cs" Inherits="OKucukkelesSQLinj.testPage" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="testPageOk.aspx.cs" Inherits="OKucukkelesSQLinj.testPageOk" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
             <div>
             <h2>SQL Injection Simülasyonu</h2>
